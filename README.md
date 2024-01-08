@@ -1,0 +1,2 @@
+# Waste-Collection-Routing-Optimization-for-Smart-Cities
+Developed waste collection routing optimization system for a simulated smart city using graphs. Implemented custom heap, graph, and Djikstra’s algorithm, adhering to guidelines without external libraries. Leveraged vectors for efficiency, with pre-approved additional libraries. Prioritized intricate logic and refined interfaces for superior grading
